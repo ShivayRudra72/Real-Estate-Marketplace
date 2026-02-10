@@ -1,4 +1,4 @@
-# Dream Home Finder  
+# Real Estate Marketplace
 
 ## Description  
 Building a Real Estate Marketplace App. Our Real Estate Marketplace App aims to revolutionize the property buying, selling, and renting experience by offering a seamless, user-friendly platform. This app bridges the gap between property owners, real estate agents, and prospective buyers or tenants, making interactions transparent and efficient.  
